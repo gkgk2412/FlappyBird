@@ -1,0 +1,6 @@
+C:\Users\HuiJin\Desktop\sprite02\Debug\dx9_d3dxsprite.exe
+C:\Users\HuiJin\Desktop\sprite02\Debug\dx9_d3dxsprite.pdb
+C:\Users\HuiJin\Desktop\20182418손희진\Debug\dx9_d3dxsprite.exe
+C:\Users\HuiJin\Desktop\20182418손희진\Debug\dx9_d3dxsprite.pdb
+C:\Users\gkgk2\OneDrive\바탕 화면\20182418손희진\Debug\dx9_d3dxsprite.exe
+C:\Users\gkgk2\OneDrive\바탕 화면\20182418손희진\Debug\dx9_d3dxsprite.pdb
